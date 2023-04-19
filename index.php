@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Primer Proyecto</title>
+    <title>mi primer proyecto</title>
 </head>
 <body>
-    <h1>Hola Mundo desde HTML + PHP </h1>
-    <h2>Luis Enrique Hernandez</h2>
+    <h1> Hola Mundo Desde HTML + PHP </h1>
+    <h2>Julian Adalberto Ramirez</h2>
 </body>
 </html>
